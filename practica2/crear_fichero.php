@@ -6,8 +6,8 @@
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: #1f7dbd; /* Color de fondo */
-            color: #4c87af; /* Color de texto */
+            background-color: #1f7dbd;
+            color: #4c87af;
             text-align: center;
             margin: 0;
             display: flex;
